@@ -12,6 +12,7 @@
 | --- | --- | --- |
 | [Mini-Pi-Agents](https://github.com/math4mad/Mini-Pi-Agents) | Agent 运行时：Redux + Redux-Saga 状态机、Planner → Executor → Reviewer 流水线、GraphQL 多机协同、执行沙箱 | `feature/sandbox` |
 | [mini-pi-data-live](https://github.com/math4mad/mini-pi-data-live) | 实战流水线：手写表格拍照 → OCR 成 CSV → 推送仓库 → 数据分析与可视化 → 独立复算审计 | `main` |
+| [mini-pi-spike](https://github.com/math4mad/mini-pi-spike) | 实验仓库：验证 pi Session 作为真相 + Redux 投影的可行性，结论回流生产仓库 | `main` |
 
 ## 系统一览
 
