@@ -4,7 +4,7 @@
 
 ![任务流转与信息通路](preview.png)
 
-> 主页：[index.html](index.html) · 选题：Redux/Saga 驱动的 Agent 状态机、GraphQL 多机协同、docker 执行沙箱
+> 主页：https://math4mad.github.io/mini-pi/ · 选题：Redux/Saga 驱动的 Agent 状态机、GraphQL 多机协同、docker 执行沙箱
 
 ## 仓库
 
